@@ -1,5 +1,3 @@
-version: '3'
-
 networks:
     nginx-php83-mysql8-node:
 
